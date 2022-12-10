@@ -1,5 +1,5 @@
-import { useSelector, useDispatch } from 'react-redux';
-import './App.css';
+import { useSelector, useDispatch } from 'react-redux'
+import './App.css'
 import {actions} from './store/index'
 
 function App() {
